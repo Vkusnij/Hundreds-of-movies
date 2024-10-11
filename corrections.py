@@ -117,17 +117,11 @@ new_plot_6 = "description about movie"
 for movie in movies:
     if movie["id"] == 90:
         movie["title"] = new_title_1
-    elif movie["id"] == 90:
         movie["year"] = new_year_6
-    elif movie["id"] == 90:
         movie["runtime"] = new_runtime_1
-    elif movie["id"] == 90:
         movie["genres"] = new_genres_3
-    elif movie["id"] == 90:
         movie["director"] = new_director_6
-    elif movie["id"] == 90:
         movie["actors"] = new_actors_6
-    elif movie["id"] == 90:
         movie["plot"] = new_plot_6
         break
 
