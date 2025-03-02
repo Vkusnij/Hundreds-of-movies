@@ -1,1 +1,2 @@
-# hundreds-of-movies-py
+# HUNDREDS OF MOVIES
+# THE TASK: Your friend has a database of his/her favorite movies, which is already structured as a list of Python dictionaries. Some data pieces are missing, and your task is to complete the database without altering the original movies list directly. Instead, add your corrections to a separate Python file, corrections.py, referencing the details for the movies from IMDB.
